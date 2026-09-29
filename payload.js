@@ -1,4 +1,4 @@
 document.body.insertAdjacentHTML(
     "beforeend",
-    "<p>cross site scripting test:v"
+    "<p>cross site scripting test:v></p>"
 );
